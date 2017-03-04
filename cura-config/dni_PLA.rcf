@@ -1,0 +1,10 @@
+[filament]
+name = dni_PLA
+diameter = 1.75
+multiplierPercent = 100
+printingTemperature = 190
+enableCooling = True
+bedTemperature = 55
+fanSpeedMin = 50
+fanSpeedMax = 100
+minimalLayerTime = 5
